@@ -243,8 +243,8 @@ The platform can be expanded with:
 
 ## 📁 Project Structure
 
+```text
 Nagrik_Seva/
-│
 ├── src/
 ├── .gitattributes
 ├── index.html
@@ -255,6 +255,7 @@ Nagrik_Seva/
 ├── tailwind.config.js
 ├── tsconfig.json
 └── vite.config.ts
+```
 
 ---
 
